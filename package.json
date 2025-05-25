@@ -1,0 +1,9 @@
+{
+  "name": "luogu-docs",
+  "version": "1.0.0",
+  "description": "Luogu文档网站，支持Markdown自动渲染与GitHub Pages自动部署",
+  "scripts": {},
+  "keywords": ["docs", "github-pages", "markdown"],
+  "author": "",
+  "license": "MIT"
+}
